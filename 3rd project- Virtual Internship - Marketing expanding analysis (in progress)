@@ -50,10 +50,10 @@
    "source": [
     "\n",
     "#1. Loading files \n",
-    "transaction= pd.read_excel('KPMG_VI_New_raw_data_update_finalV2.xlsx', sheet_name='Transactions (2)' )\n",
-    "newcustomer=pd.read_excel('KPMG_VI_New_raw_data_update_finalV2.xlsx', sheet_name='NewCustomerList (2)' )\n",
-    "demography=pd.read_excel('KPMG_VI_New_raw_data_update_finalV2.xlsx', sheet_name='CustomerDemographic')\n",
-    "add=pd.read_excel('KPMG_VI_New_raw_data_update_finalV2.xlsx', sheet_name='CustomerAddress')\n",
+    "transaction= pd.read_excel('***.xlsx', sheet_name='Transactions (2)' )\n",
+    "newcustomer=pd.read_excel('***.xlsx', sheet_name='NewCustomerList (2)' )\n",
+    "demography=pd.read_excel('***.xlsx', sheet_name='CustomerDemographic')\n",
+    "add=pd.read_excel('***.xlsx', sheet_name='CustomerAddress')\n",
     "\n"
    ]
   },
